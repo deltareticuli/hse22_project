@@ -1,5 +1,5 @@
 # Google Colab
-### [Ссылка на ноутбук](https://colab.research.google.com/drive/1dhQ5YfNdurYnfSKOPuQ3jZ9u_y23C5Bl?usp=sharing)
+### [Ссылка на ноутбук](https://colab.research.google.com/drive/1zORRcB3bqc1hI3YroYqpqKIGkLjPu5JU?usp=sharing)
 
 Образец
 ---
@@ -46,16 +46,21 @@
 Расположение предсказанных Z-DNA
 ---
 Streptomyces galilaeus
+
 ![image](images/Streptomyces_galilaeus.png)
 
 Streptomyces gardneri
+
 ![image](images/Streptomyces_gardneri.png)
 
 Streptomyces genisteinicus
+
 ![image](images/Streptomyces_genisteinicus.png)
 
 Streptomyces gilvosporeus
+
 ![image](images/Streptomyces_gilvosporeus.png)
 
 Streptomyces globosus
+
 ![image](images/Streptomyces_globosus.png)
